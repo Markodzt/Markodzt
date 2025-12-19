@@ -12,34 +12,63 @@
   <a href="https://tryhackme.com/p/0xMrk"><img src="https://cdn.simpleicons.org/tryhackme/00ff41" width="35" /></a>
 </p>
 
-## About me
+## About Me
 
-- Very passionate Cybersecurity Engineer and Penetration Tester 
-- Linux enthusiast   
-- Love playing CTFs in my free time  
+I am a highly motivated **Cybersecurity Engineer and Penetration Tester** with a strong passion for **offensive security**, **system hardening**, and **vulnerability research**.  
+A **Linux enthusiast**, I daily-drive minimal and highly customizable environments to maximize efficiency, control, and security.
 
-
-## Technologies in my environment:
-
-<div>
-  <img src="https://skillicons.dev/icons?i=arch,linux,raspberrypi,docker,git" />
-</div>
+In my free time, I actively participate in **Capture The Flag (CTF)** competitions to sharpen my hands-on skills in exploit development, reverse engineering, and web security.
 
 ---
 
-## Tools i use:
+## Technologies & Environment
 
-<div>
-  <img src="https://skillicons.dev/icons?i=neovim,vim,bash" />
-</div>
+- **Linux** – daily driver, scripting, hardening, and troubleshooting  
+- **Raspberry Pi** – security labs, automation, and networking experiments  
+- **Docker** – isolated environments for development, testing, and CTF challenges  
+- **Git** – version control, collaborative workflows, and code reviews
 
+  
+  <div>
+    <img src="https://skillicons.dev/icons?i=arch,linux,raspberrypi,docker,git" width="200" />
+  </div>
 ---
 
-## Languages:
+## Tools
 
-<div>
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,bash,powershell,java,lua" />
-</div>
+- **Neovim / Vim** – exploit development, code analysis, and scripting  
+- **Bash** – automation, post-exploitation, and system scripting  
+- **PowerShell** – security assessments and scripting in Windows environments
+
+  
+  <div>
+    <img src="https://skillicons.dev/icons?i=neovim,vim,bash" width="130" />
+  </div>
+---
+
+## Programming Languages
+
+- **C / C++** – exploit development and memory corruption analysis  
+- **Python** – security tooling, automation, and scripting  
+- **C# / PowerShell** – Windows internals and security testing  
+- **Java / Lua** – application development and scripting  
+- **Bash** – system-level automation  
+
+
+  <div>
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,bash,powershell,java,lua" width="350" />
+  </div>
+---
+
+## Areas of Interest
+
+- Penetration Testing  
+- Red Team Operations  
+- Web & Network Security  
+- Exploit Development  
+- Reverse Engineering  
+- Capture The Flag (CTF)  
+
 
 <p>
   <sub>root@github:~# exit</sub>
