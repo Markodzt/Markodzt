@@ -11,6 +11,7 @@
   <a href="https://discord.gg/799015014051741727"><img src="https://skillicons.dev/icons?i=discord&theme=dark" width="35" /></a>&nbsp;&nbsp;
   <a href="https://tryhackme.com/p/0xMrk"><img src="https://cdn.simpleicons.org/tryhackme/00ff41" width="35" /></a>
 </p>
+
 ## About me
 
 - Very passionate Cybersecurity Engineer and Penetration Tester 
